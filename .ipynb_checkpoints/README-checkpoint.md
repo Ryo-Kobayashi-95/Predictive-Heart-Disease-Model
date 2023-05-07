@@ -1,1 +1,3 @@
 # Report on Predictive Heart Disease Model
+
+This report aims to develop a predictive model for heart diseases by utilizing specific attributes through statistical methods. The data is segregated into distinct training and testing sets, and the K-Nearest Neighbors (KNN) model is applied to the training data. The statistical findings and potential implications of the results are elaborated upon in the report.
