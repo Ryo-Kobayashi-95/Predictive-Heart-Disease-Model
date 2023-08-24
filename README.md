@@ -1,4 +1,4 @@
-# Project Report: Predicting Heart Disease Using Machine Learning Algorithms
+# Report: Predicting Heart Disease Using ML Algorithms
 
 Published: Nov 12, 2022
 
