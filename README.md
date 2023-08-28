@@ -12,7 +12,7 @@ This project employs:
 
 <br/>
 
-*NOTE: For the complete report, please refer to the [Report.ipynb](https://github.com/Ryo-Kobayashi-95/Predictive-Heart-Disease-Model/blob/main/Report.ipynb) above.*
+<ins>*NOTE: For the complete report, please refer to the [Report.ipynb](https://github.com/Ryo-Kobayashi-95/Predictive-Heart-Disease-Model/blob/main/Report.ipynb) above.*</ins>
 
 <br/>
 
