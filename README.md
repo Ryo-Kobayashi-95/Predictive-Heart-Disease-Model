@@ -6,6 +6,10 @@ Author: Ryo Kobayashi
 
 <br/>
 
+NOTE: For the complete report, please refer to the [Report.ipynb](https://github.com/Ryo-Kobayashi-95/Predictive-Heart-Disease-Model/blob/main/Report.ipynb) above.
+
+<br/>
+
 ## *Abstract:*
 This report focuses on predicting heart disease presence using a dataset with critical attributes. Employing preliminary exploratory data analysis, the attributes of age, maximum heart rate (thalach), and exercise-induced ST depression (oldpeak) emerge as pertinent for subsequent analysis. Leveraging a K-Nearest Neighbour (KNN) classification model, the study aims to ascertain the predictive capacity of these identified predictors concerning heart disease incidence. Impressively, the model attains an accuracy of 72%, aligning with established industry benchmarks. While the achieved accuracy stands as moderate, it furnishes valuable insights into the realm of heart disease risk factors, with conceivable implications for advancing early diagnosis and patient care. 
 
