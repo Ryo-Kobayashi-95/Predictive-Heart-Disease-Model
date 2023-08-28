@@ -6,6 +6,12 @@ Author: Ryo Kobayashi
 
 <br/>
 
+This project employs:
+- Language: R
+- Platform: Jupyter Notebook
+
+<br/>
+
 *NOTE: For the complete report, please refer to the [Report.ipynb](https://github.com/Ryo-Kobayashi-95/Predictive-Heart-Disease-Model/blob/main/Report.ipynb) above.*
 
 <br/>
